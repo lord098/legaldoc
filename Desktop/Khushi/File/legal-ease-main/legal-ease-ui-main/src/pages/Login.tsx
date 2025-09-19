@@ -74,8 +74,8 @@ const Login = () => {
                             animate={{ y: 0, opacity: 1 }}
                             transition={{ delay: 0.5 }}
                         >
-                            <CardTitle className="text-2xl font-bold text-white">Welcome Back</CardTitle>
-                            <CardDescription className="text-white/80 mt-2">
+                            <CardTitle className="text-2xl font-bold text-black">Welcome Back</CardTitle>
+                            <CardDescription className="text-black/80 mt-2">
                                 Sign in to your LegalAI account
                             </CardDescription>
                         </motion.div>
